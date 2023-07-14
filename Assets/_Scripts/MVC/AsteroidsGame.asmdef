@@ -1,0 +1,24 @@
+{
+    "name": "AsteroidsGame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b73fcd13d0e229544967cf427ddfcea1",
+        "GUID:d33829f7149b4654ab2b78fda135409e",
+        "GUID:872e2832a923e8942ae06e81774da583",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:1e2263929748cff43813001730305f66",
+        "GUID:4445bb1ad59759b4c8d91dd990d23fd0",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
